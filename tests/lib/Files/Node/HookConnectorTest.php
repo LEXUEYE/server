@@ -170,7 +170,7 @@ class HookConnectorTest extends TestCase {
 
 		$newDispatcherCalled = false;
 		$newDispatcherNode = null;
-		$this->eventDispatcher->addListener($expectedEvent, function($event) use ($expectedEvent, &$newDispatcherCalled, &$newDispatcherNode) {
+		$this->eventDispatcher->addListener($expectedEvent, function ($event) use ($expectedEvent, &$newDispatcherCalled, &$newDispatcherNode) {
 			if ($event instanceof  $expectedEvent) {
 				/** @var AbstractNodeEvent $event */
 				$newDispatcherCalled = true;
