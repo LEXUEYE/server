@@ -171,7 +171,6 @@ OC.L10N.register(
     "Simple email app nicely integrated with Files, Contacts and Calendar." : "Fitxategiak, Kontaktuak eta Egutegiarekin integratutako posta elektronikoko aplikazio soila.",
     "Chatting, video calls, screensharing, online meetings and web conferencing – in your browser and with mobile apps." : "Txata, bideo-deiak, pantaila partekatzea, lineako bilerak eta web konferentziak - zure nabigatzailean eta mugikorrerako aplikazioekin.",
     "Collaboratively edit office documents." : "Editatu bulegoko dokumentuak elkarlanean.",
-    "Local document editing back-end used by the OnlyOffice app." : "OnlyOffice aplikazioak dokumentu lokalak editatzeko erabiltzen duen atzealdekoa.",
     "Forgot password?" : "Pasahitza ahaztu duzu?",
     "Log in with a device" : "Hasi saioa gailu batekin",
     "Back" : "Atzera",
@@ -288,6 +287,7 @@ OC.L10N.register(
     "SQLite should only be used for minimal and development instances. For production we recommend a different database backend." : "SQLite garapenerako eta instantzia txikietarako soilik erabili behar litzateke. Produkziorako beste datu-base sistema bat erabiltzea gomendatzen dugu.",
     "If you use clients for file syncing, the use of SQLite is highly discouraged." : "Fitxategiak sinkronizatzeko bezeroak erabiltzen badituzu, SQLite ez erabiltzea aholkatzen da.",
     "Install recommended apps" : "Instalatu gomendatutako aplikazioak",
+    "Calendar, Contacts, Talk, Mail & Collaborative editing" : "Egutegia, Kontaktuak, Elkarrizketa, Posta eta Editatze kolaboratiboa",
     "Finish setup" : "Bukatu konfigurazioa",
     "Finishing …" : "Bukatzen...",
     "Need help?" : "Laguntza behar duzu?",
@@ -436,6 +436,7 @@ OC.L10N.register(
     "Your client should now be connected! You can close this window." : "Zure bezeroak konektatuta dago! Leiho hau itxi dezakezu.",
     "Cancel log in" : "Ezeztatu saio-hasiera",
     "These apps will be updated:" : "Aplikazio hauek eguneratuko dira:",
+    "Local document editing back-end used by the OnlyOffice app." : "OnlyOffice aplikazioak dokumentu lokalak editatzeko erabiltzen duen atzealdekoa.",
     "Calendar, Contacts, Talk, Mail & OnlyOffice" : "Egutegia, Kontaktuak, Elkarrizketa, Posta eta OnlyOffice"
 },
 "nplurals=2; plural=(n != 1);");
