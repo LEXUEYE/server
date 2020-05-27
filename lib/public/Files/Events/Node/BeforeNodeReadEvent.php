@@ -29,5 +29,4 @@ namespace OCP\Files\Events\Node;
  * @since 20.0.0
  */
 class BeforeNodeReadEvent extends AbstractNodeEvent {
-
 }
